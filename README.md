@@ -23,23 +23,7 @@ This project demonstrates the use of Independent Component Analysis (ICA) to sep
   - `classification.py`: Script for augmenting data, extracting features, training the classifier, and classifying reconstructed signals.
 - `README.md`: This file.
 
-## Setup and Installation
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/your-username/ICA-Audio-Source-Separation-and-Classification.git
-   cd ICA-Audio-Source-Separation-and-Classification
-   ```
 
-2. **Create and activate a virtual environment**:
-   ```sh
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. **Install the required packages**:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
